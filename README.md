@@ -19,7 +19,7 @@
 ## 3. Bloom Filter
 
 ### output
-![image](BloomFilter/output.jpg)
+![image](bloomFilter/output.jpg)
 
 
 
