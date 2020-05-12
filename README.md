@@ -9,3 +9,12 @@
 ### client output
 
 ![image](DeleteNode/client.jpg)
+
+## 2. LRU Cache
+
+### output
+
+![image](lru/output.jpg)
+
+
+
