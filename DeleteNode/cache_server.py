@@ -5,7 +5,6 @@ import json
 from server_config import NODES
 from pickle_hash import serialize, deserialize, hash_code_hex
 
-from lru_cache import lru_cache
 
 BUFFER_SIZE = 1024
 
