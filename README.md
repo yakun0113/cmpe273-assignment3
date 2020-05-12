@@ -16,5 +16,10 @@
 
 ![image](lru/output.jpg)
 
+## 3. Bloom Filter
+
+### output
+![image](BloomFilter/output.jpg)
+
 
 
